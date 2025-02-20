@@ -1,4 +1,4 @@
-module ibrahimypr/whatsmeow
+module github.com/ibrahimypr/whatsmeow
 
 go 1.23.0
 
